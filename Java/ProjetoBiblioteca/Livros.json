@@ -1,0 +1,425 @@
+[
+  {
+    "idLivro": "5",
+    "titulo": "Harry Potter e a Ordem da Fênix",
+    "autor": "J.K. Rowling",
+    "editora": "Rocco",
+    "anoPublicacao": "2003",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "6",
+    "titulo": "Harry Potter e o Enigma do Príncipe",
+    "autor": "J.K. Rowling",
+    "editora": "Rocco",
+    "anoPublicacao": "2005",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "7",
+    "titulo": "Harry Potter e as Relíquias da Morte",
+    "autor": "J.K. Rowling",
+    "editora": "Rocco",
+    "anoPublicacao": "2007",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "8",
+    "titulo": "Percy Jackson e o Ladrão de Raios",
+    "autor": "Rick Riordan",
+    "editora": "Intrínseca",
+    "anoPublicacao": "2005",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "9",
+    "titulo": "Percy Jackson e o Mar de Monstros",
+    "autor": "Rick Riordan",
+    "editora": "Intrínseca",
+    "anoPublicacao": "2006",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "10",
+    "titulo": "Percy Jackson e a Maldição do Titã",
+    "autor": "Rick Riordan",
+    "editora": "Intrínseca",
+    "anoPublicacao": "2007",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "11",
+    "titulo": "Percy Jackson e a Batalha do Labirinto",
+    "autor": "Rick Riordan",
+    "editora": "Intrínseca",
+    "anoPublicacao": "2008",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "12",
+    "titulo": "Percy Jackson e o Último Olimpiano",
+    "autor": "Rick Riordan",
+    "editora": "Intrínseca",
+    "anoPublicacao": "2009",
+    "genero": "Fantasia",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "13",
+    "titulo": "A Guerra dos Tronos",
+    "autor": "George R.R. Martin",
+    "editora": "Leya",
+    "anoPublicacao": "1996",
+    "genero": "Fantasia",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "14",
+    "titulo": "A Fúria dos Reis",
+    "autor": "George R.R. Martin",
+    "editora": "Leya",
+    "anoPublicacao": "1998",
+    "genero": "Fantasia",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "15",
+    "titulo": "A Tormenta de Espadas",
+    "autor": "George R.R. Martin",
+    "editora": "Leya",
+    "anoPublicacao": "2000",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "16",
+    "titulo": "O Festim dos Corvos",
+    "autor": "George R.R. Martin",
+    "editora": "Leya",
+    "anoPublicacao": "2005",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "17",
+    "titulo": "A Dança dos Dragões",
+    "autor": "George R.R. Martin",
+    "editora": "Leya",
+    "anoPublicacao": "2011",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "18",
+    "titulo": "Jogos Vorazes",
+    "autor": "Suzanne Collins",
+    "editora": "Rocco",
+    "anoPublicacao": "2008",
+    "genero": "Distopia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "19",
+    "titulo": "Em Chamas",
+    "autor": "Suzanne Collins",
+    "editora": "Rocco",
+    "anoPublicacao": "2009",
+    "genero": "Distopia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "20",
+    "titulo": "A Esperança",
+    "autor": "Suzanne Collins",
+    "editora": "Rocco",
+    "anoPublicacao": "2010",
+    "genero": "Distopia",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "21",
+    "titulo": "A Cantiga dos Pássaros e das Serpentes",
+    "autor": "Suzanne Collins",
+    "editora": "Rocco",
+    "anoPublicacao": "2020",
+    "genero": "Distopia",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "22",
+    "titulo": "A Sociedade do Anel",
+    "autor": "J.R.R. Tolkien",
+    "editora": "HarperCollins",
+    "anoPublicacao": "1954",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "23",
+    "titulo": "As Duas Torres",
+    "autor": "J.R.R. Tolkien",
+    "editora": "HarperCollins",
+    "anoPublicacao": "1954",
+    "genero": "Fantasia",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "24",
+    "titulo": "O Retorno do Rei",
+    "autor": "J.R.R. Tolkien",
+    "editora": "HarperCollins",
+    "anoPublicacao": "1955",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "25",
+    "titulo": "Os Homens que Não Amavam as Mulheres",
+    "autor": "Stieg Larsson",
+    "editora": "Companhia das Letras",
+    "anoPublicacao": "2005",
+    "genero": "Mistério/Thriller",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "26",
+    "titulo": "A Menina que Brincava com Fogo",
+    "autor": "Stieg Larsson",
+    "editora": "Companhia das Letras",
+    "anoPublicacao": "2006",
+    "genero": "Mistério/Thriller",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "27",
+    "titulo": "A Rainha do Castelo de Ar",
+    "autor": "Stieg Larsson",
+    "editora": "Companhia das Letras",
+    "anoPublicacao": "2007",
+    "genero": "Mistério/Thriller",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "28",
+    "titulo": "A Bússola de Ouro",
+    "autor": "Philip Pullman",
+    "editora": "Objetiva",
+    "anoPublicacao": "1995",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "29",
+    "titulo": "A Faca Sutil",
+    "autor": "Philip Pullman",
+    "editora": "Objetiva",
+    "anoPublicacao": "1997",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "30",
+    "titulo": "A Luneta Âmbar",
+    "autor": "Philip Pullman",
+    "editora": "Objetiva",
+    "anoPublicacao": "2000",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "31",
+    "titulo": "Divergente",
+    "autor": "Veronica Roth",
+    "editora": "Rocco",
+    "anoPublicacao": "2011",
+    "genero": "Distopia",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "32",
+    "titulo": "Insurgente",
+    "autor": "Veronica Roth",
+    "editora": "Rocco",
+    "anoPublicacao": "2012",
+    "genero": "Distopia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "33",
+    "titulo": "Convergente",
+    "autor": "Veronica Roth",
+    "editora": "Rocco",
+    "anoPublicacao": "2013",
+    "genero": "Distopia",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "34",
+    "titulo": "O Leão, a Feiticeira e o Guarda-Roupa",
+    "autor": "C.S. Lewis",
+    "editora": "Martins Fontes",
+    "anoPublicacao": "1950",
+    "genero": "Fantasia",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "35",
+    "titulo": "Príncipe Caspian",
+    "autor": "C.S. Lewis",
+    "editora": "Martins Fontes",
+    "anoPublicacao": "1951",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "36",
+    "titulo": "A Viagem do Peregrino da Alvorada",
+    "autor": "C.S. Lewis",
+    "editora": "Martins Fontes",
+    "anoPublicacao": "1952",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "37",
+    "titulo": "A Cadeira de Prata",
+    "autor": "C.S. Lewis",
+    "editora": "Martins Fontes",
+    "anoPublicacao": "1953",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "38",
+    "titulo": "O Cavalo e seu Menino",
+    "autor": "C.S. Lewis",
+    "editora": "Martins Fontes",
+    "anoPublicacao": "1954",
+    "genero": "Fantasia",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "39",
+    "titulo": "O Sobrinho do Mago",
+    "autor": "C.S. Lewis",
+    "editora": "Martins Fontes",
+    "anoPublicacao": "1955",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "40",
+    "titulo": "A Última Batalha",
+    "autor": "C.S. Lewis",
+    "editora": "Martins Fontes",
+    "anoPublicacao": "1956",
+    "genero": "Fantasia",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "41",
+    "titulo": "Batman: O Cavaleiro das Trevas",
+    "autor": "Frank Miller",
+    "editora": "DC Comics",
+    "anoPublicacao": "1986",
+    "genero": "Super-herói",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "42",
+    "titulo": "Homem-Aranha: A Última Caçada de Kraven",
+    "autor": "J.M. DeMatteis",
+    "editora": "Marvel Comics",
+    "anoPublicacao": "1987",
+    "genero": "Super-herói",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "43",
+    "titulo": "Homem-Aranha: O Outro",
+    "autor": "J. Michael Straczynski",
+    "editora": "Marvel Comics",
+    "anoPublicacao": "2005",
+    "genero": "Super-herói",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "44",
+    "titulo": "Homem-Aranha: O Último Desejo",
+    "autor": "Joe Kelly",
+    "editora": "Marvel Comics",
+    "anoPublicacao": "2002",
+    "genero": "Super-herói",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "45",
+    "titulo": "O Incrível Hulk: A Transformação de Banner",
+    "autor": "Peter David",
+    "editora": "Marvel Comics",
+    "anoPublicacao": "1989",
+    "genero": "Super-herói",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "46",
+    "titulo": "O Incrível Hulk: Future Imperfect",
+    "autor": "Peter David",
+    "editora": "Marvel Comics",
+    "anoPublicacao": "1992",
+    "genero": "Super-herói",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "47",
+    "titulo": "O Incrível Hulk: Planeta Hulk",
+    "autor": "Greg Pak",
+    "editora": "Marvel Comics",
+    "anoPublicacao": "2006",
+    "genero": "Super-herói",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "48",
+    "titulo": "Homem de Ferro: O Invencível",
+    "autor": "David Michelinie",
+    "editora": "Marvel Comics",
+    "anoPublicacao": "1978",
+    "genero": "Super-herói",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "49",
+    "titulo": "Homem de Ferro: O Demônio na Garrafa",
+    "autor": "David Michelinie",
+    "editora": "Marvel Comics",
+    "anoPublicacao": "1979",
+    "genero": "Super-herói",
+    "situacao": "ALUGADO"
+  },
+  {
+    "idLivro": "50",
+    "titulo": "Homem de Ferro: Extremis",
+    "autor": "Warren Ellis",
+    "editora": "Marvel Comics",
+    "anoPublicacao": "2005",
+    "genero": "Super-herói",
+    "situacao": "DISPONIVEL"
+  },
+  {
+    "idLivro": "51",
+    "titulo": "asdfsadfasfasf",
+    "autor": "asdfsadfsa",
+    "editora": "asdfasdfsa",
+    "anoPublicacao": "sadfsadfasd",
+    "genero": "fasdfsadfas",
+    "situacao": "DISPONIVEL"
+  }
+]

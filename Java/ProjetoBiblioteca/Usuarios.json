@@ -1,0 +1,112 @@
+[
+  {
+    "idUsuario": "1",
+    "nome": "João da Silva",
+    "email": "joao@gmail.com",
+    "endereco": "Rua A, 123",
+    "telefone": "(62) 1 2345-6789",
+    "cpf": "123.456.789-01",
+    "senha": "senha123",
+    "tipo": "CLIENTE"
+  },
+  {
+    "idUsuario": "2",
+    "nome": "Maria Oliveira",
+    "email": "maria@gmail.com",
+    "endereco": "Avenida B, 456",
+    "telefone": "(62) 9 8765-4321",
+    "cpf": "987.654.321-02",
+    "senha": "senha456",
+    "tipo": "FUNCIONARIO"
+  },
+  {
+    "idUsuario": "3",
+    "nome": "Pedro Santos",
+    "email": "pedro@gmail.com",
+    "endereco": "Travessa C, 789",
+    "telefone": "(62) 9 9999-9999",
+    "cpf": "999.999.999-03",
+    "senha": "senha789",
+    "tipo": "CLIENTE"
+  },
+  {
+    "idUsuario": "4",
+    "nome": "Ana Souza",
+    "email": "ana@gmail.com",
+    "endereco": "Rua D, 101",
+    "telefone": "(62) 1 1122-2333",
+    "cpf": "111.222.333-04",
+    "senha": "senhaabc",
+    "tipo": "CLIENTE"
+  },
+  {
+    "idUsuario": "5",
+    "nome": "Carlos Ferreira",
+    "email": "carlos@gmail.com",
+    "endereco": "Avenida E, 202",
+    "telefone": "(62) 4 4455-5666",
+    "cpf": "444.555.666-05",
+    "senha": "senhadef",
+    "tipo": "FUNCIONARIO"
+  },
+  {
+    "idUsuario": "6",
+    "nome": "Gabriel Lima",
+    "email": "gabriel@gmail.com",
+    "endereco": "Rua F, 303",
+    "telefone": "(62) 1 2312-3123",
+    "cpf": "123.123.123-45",
+    "senha": "senha123",
+    "tipo": "CLIENTE"
+  },
+  {
+    "idUsuario": "7",
+    "nome": "Amanda Pereira",
+    "email": "amanda@gmail.com",
+    "endereco": "Avenida G, 404",
+    "telefone": "(62) 9 8765-1234",
+    "cpf": "987.651.234-56",
+    "senha": "senha456",
+    "tipo": "CLIENTE"
+  },
+  {
+    "idUsuario": "8",
+    "nome": "Lucas Oliveira",
+    "email": "lucas@gmail.com",
+    "endereco": "Rua H, 505",
+    "telefone": "(62) 9 9999-8888",
+    "cpf": "999.988.887-65",
+    "senha": "senha789",
+    "tipo": "CLIENTE"
+  },
+  {
+    "idUsuario": "9",
+    "nome": "Isabela Santos",
+    "email": "isabela@gmail.com",
+    "endereco": "Travessa I, 606",
+    "telefone": "(62) 9 9988-7766",
+    "cpf": "998.877.665-43",
+    "senha": "senhaabc",
+    "tipo": "CLIENTE"
+  },
+  {
+    "idUsuario": "10",
+    "nome": "Rafaela Ferreira",
+    "email": "rafaela@gmail.com",
+    "endereco": "Avenida J, 707",
+    "telefone": "(62) 4 4445-5566",
+    "cpf": "444.455.566-77",
+    "senha": "senhadef",
+    "tipo": "CLIENTE"
+  },
+  {
+    "idUsuario": "11",
+    "nome": "rayan",
+    "email": "rayan@gmail.com",
+    "endereco": "ruaA",
+    "telefone": "(62) 9 8404-3861",
+    "cpf": "700.743.061-97",
+    "senha": "rayan",
+    "tipo": "FUNCIONARIO"
+  }
+]
